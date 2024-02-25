@@ -1,4 +1,11 @@
 *{
     padding: 0;
     margin:0;
+    
+}
+.background-pink{
+    background-color: #fdeaed;
+}
+.background-orange{
+    background-color:#ff8533;
 }
